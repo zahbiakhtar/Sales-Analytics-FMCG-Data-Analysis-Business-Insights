@@ -1,0 +1,3 @@
+FMCG Sales Performance Analysis & Business Insights
+This project focuses on analyzing FMCG sales data using Microsoft Excel to evaluate revenue performance, identify sales trends, and support data-driven business decisions. Data was cleaned, transformed, and structured using Power Query, while Pivot Tables were used to summarize and analyze large datasets efficiently.
+Key sales metrics such as total revenue, sales growth, and product performance were analyzed using sales domain metrics. Basic DAX measures were applied to calculate key values, and conditional formatting was used to highlight important trends and performance variations. The final report was enhanced through report beautification techniques to improve readability and presentation for stakeholders.
